@@ -220,5 +220,9 @@
         }
         $button.parent().find('input').val(newVal);
     });
+<<<<<<< HEAD
     
+=======
+
+>>>>>>> Long
 })(jQuery);
